@@ -7,6 +7,9 @@ Changed non semantic tags such as div and span to semantic tags header, main, se
 
 Added functionality to nav to have page redirect when clicking "Search engine optimization.  
 
+Added alt attribute to images  
+
+
 
 
 # CSS
@@ -17,6 +20,14 @@ Consolidated main classes to single class called services because they all had t
 
 Changed the element tags to match what I changed in HTML.  
 
-#Screenshot
+# Screenshot
 
-![](./Develop/assets/images/Screenshot.png)
+![](./Develop/assets/images/Screenshot.png)  
+
+# Website purpose and function
+
+This website was made to inform users on the services offered by Horiseon.  When user clicks on the text in the nav bar it automatically sends them to the service offered.  
+
+# Link to webpage
+
+[My webpage](https://michaeloc1.github.io/module-1-accessibility)
